@@ -305,10 +305,6 @@ animation-delay: .8s;
 ====================================================================
 
  ***/
-.navbar-header{
-  background:blue;
-  z-index: 100;
-}
 .theme-main-header {
   position: absolute;
   top:0;
