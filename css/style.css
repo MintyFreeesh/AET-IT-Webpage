@@ -12,6 +12,7 @@
 /* ------------------------------------------ */
 /*             TABLE OF CONTENTS
 /* ------------------------------------------ */
+/*   00 - AET STUDENTS ADDED  */
 /*   01 - Loading Transition  */
 /*   02 - Click To Top  */
 /*   03 - Global Settings */
@@ -60,6 +61,18 @@
 /*----calendar css--------*/
 @import url('../vendor/monthly-master/css/monthly.css');
 
+
+
+/***
+
+====================================================================
+ Our Work
+====================================================================
+
+***/ 
+.backGray{
+  background-color: gray;
+}
 
 /*** 
 
