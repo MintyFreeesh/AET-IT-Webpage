@@ -1,12 +1,12 @@
 /* CSS Document */
 
-/* 
-    Created on : 1/15/2017. 
+/*
+    Created on : 1/15/2017.
     Theme Name : BizPro.
     Description: BizPro- Responsive html5 template.
     Version    : 1.1.
     Author     : @SRThemes.
-   
+
 */
 
 /* ------------------------------------------ */
@@ -69,12 +69,12 @@
  Our Work
 ====================================================================
 
-***/ 
+***/
 .backGray{
-  background-color: gray;
+  background-color: rgb(207, 199, 198);
 }
 
-/*** 
+/***
 
 ====================================================================
   Loading Transition
@@ -103,15 +103,15 @@
   bottom:0px;
   width: 6px;
   height: 5px;
-  background:#e04f5d; 
+  background:#e04f5d;
   position:absolute;
   animation: preloader_1 1.5s  infinite ease-in-out;
 }
- 
+
 #preloader_1 span:nth-child(2){
 left:11px;
 animation-delay: .2s;
- 
+
 }
 #preloader_1 span:nth-child(3){
 left:22px;
@@ -133,7 +133,7 @@ animation-delay: .8s;
 }
 
 
-/*** 
+/***
 
 ====================================================================
   Click To Top
@@ -164,7 +164,7 @@ animation-delay: .8s;
   background: -webkit-radial-gradient(center, ellipse, rgba(0, 0, 0, 0.25) 0%, rgba(0, 0, 0, 0) 80%);
   background: radial-gradient(ellipse at center, rgba(0, 0, 0, 0.25) 0%, rgba(0, 0, 0, 0) 80%);
 }
-/*** 
+/***
 
 ====================================================================
   Global Settings
@@ -298,7 +298,7 @@ animation-delay: .8s;
   border-color:#d73e4d;
   border-style: solid;
 }
-/*** 
+/***
 
 ====================================================================
   Theme Header
@@ -319,7 +319,7 @@ animation-delay: .8s;
   font-weight: 700;
   background: transparent;
   padding: 9px 30px;
-} 
+}
 .theme-main-menu .navbar-nav>li:last-child>a {
   padding-right: 0;
 }
@@ -388,7 +388,7 @@ animation-delay: .8s;
   cursor: pointer;
   line-height: 44px;
 }
-/*** 
+/***
 
 ====================================================================
   Sticky Menu
@@ -415,7 +415,7 @@ animation-delay: .8s;
 .theme-main-header.fixed .logo {
   margin-top: -8px;
 }
-/*** 
+/***
 
 ====================================================================
   Theme Main Banner
@@ -438,7 +438,7 @@ animation-delay: .8s;
   border-width: 1px;
   text-transform: uppercase;
 }
-/*** 
+/***
 
 ====================================================================
   About section
@@ -474,7 +474,7 @@ animation-delay: .8s;
 #about-us .single-about-content:hover .icon {
   color:#fff;
 }
-/*** 
+/***
 
 ====================================================================
   Service section
@@ -543,7 +543,7 @@ animation-delay: .8s;
        -o-transform: translate3D(0,0,0);
           transform: translate3D(0,0,0);
 }
-/*** 
+/***
 
 ====================================================================
   Project section
@@ -567,7 +567,7 @@ animation-delay: .8s;
   border-color: transparent;
   margin: 15px 10px 0 10px;
   padding-bottom: 10px;
-} 
+}
 #project-section .project-gallery .grid-item {
   width: 33.33333333333%;
   padding: 0 15px;
@@ -675,7 +675,7 @@ animation-delay: .8s;
           transform: translate3D(0,0,0);
 }
 
-/*** 
+/***
 
 ====================================================================
   Page Middle Banner
@@ -705,7 +705,7 @@ animation-delay: .8s;
   font-weight: 700;
   border-width:1px;
 }
-/*** 
+/***
 
 ====================================================================
   Team Section
@@ -879,7 +879,7 @@ animation-delay: .8s;
           transform: translate3D(0,0,0);
 }
 
-/*** 
+/***
 
 ====================================================================
   Skill Section
@@ -937,7 +937,7 @@ animation-delay: .8s;
   padding: 0;
   float:none;
 }
-/*** 
+/***
 
 ====================================================================
   Our Client
@@ -969,7 +969,7 @@ animation-delay: .8s;
   border: 1px solid#9d9f9f;
   margin: 0 5px;
 }
-/*** 
+/***
 
 ====================================================================
   Pricing Section
@@ -1030,7 +1030,7 @@ animation-delay: .8s;
 #pricing-section .single-price-table a:hover {
   background: #fff;
 }
-/*** 
+/***
 
 ====================================================================
   Blog Section
@@ -1093,7 +1093,7 @@ animation-delay: .8s;
 #blog-section .single-news-item .post p a {
   color: #292929;
 }
-/*** 
+/***
 
 ====================================================================
   Partner Section
@@ -1113,7 +1113,7 @@ animation-delay: .8s;
 #partner-section .item img {
   margin: 0 auto;
 }
-/*** 
+/***
 
 ====================================================================
   Contact Section
@@ -1193,7 +1193,7 @@ animation-delay: .8s;
 #contact-section .send-message form button:hover {
   background: #fff;
 }
-/*** 
+/***
 
 ====================================================================
   Conatct Form Activation
@@ -1258,7 +1258,7 @@ animation-delay: .8s;
 .form-validation textarea.error {
   border:1px solid #f03838 !important;
 }
-/*** 
+/***
 
 ====================================================================
   Footer
@@ -1349,10 +1349,10 @@ footer p {
   font-size: 15px;
   margin-top: 50px;
 }
-/*** 
+/***
 
 ====================================================================
-  Inner Page Banner 
+  Inner Page Banner
 ====================================================================
 
  ***/
@@ -1380,7 +1380,7 @@ footer p {
 .inner-page-banner .opacity ul li a {
   color:#fff;
 }
-/*** 
+/***
 
 ====================================================================
   Blog Aside bar
@@ -1479,7 +1479,7 @@ footer p {
   border: 1px solid #dfdfdf;
   border-radius: 5px;
 }
-/*** 
+/***
 
 ====================================================================
   Blog Details Post
