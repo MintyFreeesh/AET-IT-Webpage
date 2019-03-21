@@ -73,7 +73,8 @@
 .backGray{
   background-color: rgb(215, 215, 215);
 }
-
+/*Use CTRL+F: TORQ,GREEN,BLUE,YELLOW*/
+/*I changed something in vendor/hover.css for the box color*/
 /***
 
 ====================================================================
@@ -103,7 +104,7 @@
   bottom:0px;
   width: 6px;
   height: 5px;
-  background:#e04f5d;
+  background:#00faff; /*TORQ*/ 
   position:absolute;
   animation: preloader_1 1.5s  infinite ease-in-out;
 }
@@ -126,10 +127,11 @@ left:44px;
 animation-delay: .8s;
 }
 @keyframes preloader_1 {
-    0% {height:5px;transform:translateY(0px);background:#e62d3f;}
-    25% {height:30px;transform:translateY(15px);background:#e62d3f;}
-    50% {height:5px;transform:translateY(0px);background:#ee2438;}
-    100% {height:5px;transform:translateY(0px);background:#ee2438;}
+    0% {height:5px;transform:translateY(0px);background:#00faff;} /*TORQ*/
+    25% {height:30px;transform:translateY(15px);background:#3bdb58;} /*GREEN*/
+    50% {height:5px;transform:translateY(0px);background:#3972ce;} /*BLUE*/
+    100% {height:5px;transform:translateY(0px);background:#00faff;} /*TORQ*/
+
 }
 
 
@@ -279,13 +281,13 @@ animation-delay: .8s;
 .blog-details-post-wrapper .list-img-wrapper ul li a:hover,.blog-details-post-wrapper .post-comment form button:hover,
 .blog-details-post-wrapper .post-share-area .share li a:hover,.theme-main-menu.navbar .nav>li ul li a:hover,
 .blog-details-post-wrapper .post-share-area .share li a.active {
-  color:#3972ce;
+  color:#3972ce; /*BLUE*/
 }
 .p-color-bg,.theme-title h2:before,#about-us .single-about-content:hover .icon,
 #skill-section .codeconSkillbar .skillBar,#our-client .owl-theme .owl-dots .owl-dot.active span,
 #our-client .owl-theme .owl-dots .owl-dot:hover span,
 .blog-details-post-wrapper .comment-area .single-comment .comment button:hover {
-  background: #faff00;
+  background: #faff00; /*YELLOW*/
 }
 .banner .project-button,#about-us .icon,#about-us .single-about-content a.more,
 #service-section .single-service-content:hover,#project-section .project-menu ul li.active,
@@ -295,7 +297,7 @@ animation-delay: .8s;
 #contact-section .contact-address-content .left-side ul li .icon,#contact-section .send-message form button,
 .sidebar-tags ul li a:hover,.blog-details-post-wrapper .post-comment form button,
 .blog-details-post-wrapper .post-comment textarea:focus,.blog-details-post-wrapper .post-comment input:focus {
-  border-color:#3bdb58;
+  border-color:#3bdb58; /* GREEN*/
   border-style: solid;
 }
 /***
@@ -426,13 +428,13 @@ animation-delay: .8s;
   background: #000;
 }
 .banner h1,.banner h6,.banner .project-button {
-  color:#fff;
+  color:#fff; /* Color of Text in slide show */
 }
 .banner h6 {
   font-weight: 500;
 }
 .banner .project-button {
-  width: 170px;
+  width: 170px;     /* background of box */
   line-height: 50px;
   text-align: center;
   border-width: 1px;
