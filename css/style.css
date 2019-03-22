@@ -88,6 +88,22 @@
   height: 100%;
   width: auto;
 }
+table,td,tr{
+  border-color:#3bdb58; /* GREEN*/
+  border-style: solid;
+  border-width: 1px;
+  background-color: #fff;
+}
+.marginTop{
+  margin-top: 50px;
+}
+.removeSpace p{
+  margin: 0px;
+  padding: 0px 
+}
+.tableBottom{
+  margin-bottom: 0px;
+}
 /*Use CTRL+F: TORQ,GREEN,BLUE,YELLOW*/
 /*I changed something in vendor/hover.css for the box color*/
 /***
