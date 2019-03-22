@@ -73,6 +73,21 @@
 .backGray{
   background-color: rgb(215, 215, 215);
 }
+.image-cropper {
+    width: 100px;
+    height: 127px;
+    position: relative;
+    overflow: hidden;
+    border-radius: 50%;
+}
+.ACLcirlce {
+  display: inline;
+  margin: auto;
+  margin-bottom: 10px;
+  margin-left: auto; //centers the image
+  height: 100%;
+  width: auto;
+}
 /*Use CTRL+F: TORQ,GREEN,BLUE,YELLOW*/
 /*I changed something in vendor/hover.css for the box color*/
 /***
@@ -104,7 +119,7 @@
   bottom:0px;
   width: 6px;
   height: 5px;
-  background:#00faff; /*TORQ*/ 
+  background:#00faff; /*TORQ*/
   position:absolute;
   animation: preloader_1 1.5s  infinite ease-in-out;
 }
