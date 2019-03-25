@@ -80,6 +80,10 @@
     overflow: hidden;
     border-radius: 50%;
 }
+.chapin-face {
+  height: 100px;
+}
+
 .ACLcirlce {
   display: inline;
   margin: auto;
@@ -726,7 +730,7 @@ animation-delay: .8s;
   background-size: cover;
   background-attachment: fixed;
   margin-top: 70px;
-  text-align: center; 
+  text-align: center;
 }
 
 .page-middle-banner .opacity h3 {
