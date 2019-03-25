@@ -101,9 +101,7 @@ table,td,tr{
   margin: 0px;
   padding: 0px
 }
-.tableBottom{
-  margin-bottom: 0px;
-}
+
 /*Use CTRL+F: TORQ,GREEN,BLUE,YELLOW*/
 /*I changed something in vendor/hover.css for the box color*/
 /***
