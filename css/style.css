@@ -627,7 +627,7 @@ animation-delay: .8s;
   left:0;
   right: 0;
   bottom: 0;
-  background: rgba(215,67,77,0.9);
+  background: rgba(59,219,88,0.9); /* GREEN */
   opacity: 0;
   -webkit-transform: scale(0.2);
      -moz-transform: scale(0.2);
