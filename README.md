@@ -38,6 +38,14 @@ Your Names - Esha Fateh, Shriya Vijay, Minh Tran
 11. Linked all overview subsections boxes to respective local links (About Us, Academics, Student Resources)
 12. Transferred teacher information to Academics page
 
+##Contributing: Minh
+1. Formated Navbar with no background
+2. Added Physics montage for each slide
+3. Created and Linked each subpage with navbar
+4. Changed Color Scheme of all pages
+5. Added Table to Achademics
+6. Changed logo in head, footer, and navbar
+7. Created the Student Resources page
 
 ##Status
 1. Collect various projects done by students and have them in our website
