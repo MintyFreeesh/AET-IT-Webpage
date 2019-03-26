@@ -24,7 +24,19 @@ Your Names - Esha Fateh, Shriya Vijay, Minh Tran
 8. Fitting the pictures in the circles --> making the rectangular pictures circular
 9. Updated the whole "About me" page to include the "about the academies" section, "About the IT pathway" section, two student testimonials, and 3 students projects
 
-##Contributing: Esha Fateh
+##Contributing: Esha 
+1. Edited the secondary memos on the montage to "It's where you should be"
+2. Deleted extra subsection boxes on the main page's Overview Section
+3. Edited Overview box names to "About Us", "Upcoming Events", and "Why IT"
+4. Deleted subheadings for the boxes
+5. Edited teacher bios in the team section boxes
+6. Edited Mr. Chapin's info, Edited Mr. Poland's info, Edited Mr. Randall's info, Edited Ms. Wissler's info with contact info
+7. Updated main page to eliminate divs not used
+8. Updated contact Information at the bottom of the main page
+9. Added in images in the Overview Section and matched heights  
+10. Added in images for each teacher
+11. Linked all overview subsections boxes to respective local links (About Us, Academics, Student Resources)
+12. Transferred teacher information to Academics page
 
 
 ##Status
