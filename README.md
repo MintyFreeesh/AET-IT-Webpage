@@ -24,6 +24,9 @@ Your Names - Esha Fateh, Shriya Vijay, Minh Tran
 8. Fitting the pictures in the circles --> making the rectangular pictures circular
 9. Updated the whole "About me" page to include the "about the academies" section, "About the IT pathway" section, two student testimonials, and 3 students projects
 
+##Contributing: Esha Fateh
+
+
 ##Status
 1. Collect various projects done by students and have them in our website
 2. Have more pictures/videos which describe the experiences in the IT pathway
