@@ -24,6 +24,7 @@ Your Names - Esha Fateh, Shriya Vijay, Minh Tran
 8. Fitting the pictures in the circles --> making the rectangular pictures circular
 9. Updated the whole "About me" page to include the "about the academies" section, "About the IT pathway" section, two student testimonials, and 3 students projects
 10. Changed color of the first part of "About me" page
+11. Added club names and descriptions to the "Student Resources" page
 
 ##Contributing: Esha
 1. Edited the secondary memos on the montage to "It's where you should be"
