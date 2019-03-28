@@ -9,7 +9,7 @@ Our product can be used for potential students who want to join the IT pathway a
 Your Names - Esha Fateh, Shriya Vijay, Minh Tran
 
 
-[https://github.com/MintyFreeesh/AET-IT-Webpage]
+[ https://mintyfreeesh.github.io/AET-IT-Webpage/]
 
 ## Contributing: Shriya
 1. Added GIF to main page
@@ -23,8 +23,9 @@ Your Names - Esha Fateh, Shriya Vijay, Minh Tran
 7. Changed the images in the circles for the "About me" page
 8. Fitting the pictures in the circles --> making the rectangular pictures circular
 9. Updated the whole "About me" page to include the "about the academies" section, "About the IT pathway" section, two student testimonials, and 3 students projects
+10. Changed color of the first part of "About me" page
 
-##Contributing: Esha 
+##Contributing: Esha
 1. Edited the secondary memos on the montage to "It's where you should be"
 2. Deleted extra subsection boxes on the main page's Overview Section
 3. Edited Overview box names to "About Us", "Upcoming Events", and "Why IT"
@@ -46,6 +47,12 @@ Your Names - Esha Fateh, Shriya Vijay, Minh Tran
 5. Added Table to Achademics
 6. Changed logo in head, footer, and navbar
 7. Created the Student Resources page
+
+##Customer Request
+1. Inform the public about the Academies of Loudoun in general
+2. To go further in depth about the Information Technology pathway offered at AET
+3. Inform the public on why one should join AET and go into the Information Technology pathway
+
 
 ##Status
 1. Collect various projects done by students and have them in our website
