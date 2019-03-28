@@ -48,6 +48,7 @@ Your Names - Esha Fateh, Shriya Vijay, Minh Tran
 5. Added Table to Achademics
 6. Changed logo in head, footer, and navbar
 7. Created the Student Resources page
+8. Form to Outreach Page
 
 ##Customer Request
 1. Inform the public about the Academies of Loudoun in general
