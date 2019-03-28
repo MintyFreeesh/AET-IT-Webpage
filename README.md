@@ -28,6 +28,7 @@ Your Names - Esha Fateh, Shriya Vijay, Minh Tran
 12. Took out the About the Academies section in the "About Us" page
 13. Added student pictures to the testimonials section on the "About Us" page
 14. Linked the top circles in the "About Us" page to the local links
+15. Added the Internship names and changed their descriptions in the "Student Resources" page
 
 ##Contributing: Esha
 1. Edited the secondary memos on the montage to "It's where you should be"
