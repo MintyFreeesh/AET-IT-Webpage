@@ -17,15 +17,16 @@ Your Names - Esha Fateh, Shriya Vijay, Minh Tran
 3. Changed call to action button to "explore"
 4. Changed second call to action to "Academies"
 5. Changed third call to action to "Student Resources"
-4. Changed background color for "About me" page
-5. Centered the circles on the a "About me" page and changed the description for each
-6. Changing the head of the "About me" page and the description for each part of the page
-7. Changed the images in the circles for the "About me" page
+4. Changed background color for "About Us" page
+5. Centered the circles on the a "About Us" page and changed the description for each
+6. Changing the head of the "About Us" page and the description for each part of the page
+7. Changed the images in the circles for the "About Us" page
 8. Fitting the pictures in the circles --> making the rectangular pictures circular
-9. Updated the whole "About me" page to include the "about the academies" section, "About the IT pathway" section, two student testimonials, and 3 students projects
-10. Changed color of the first part of "About me" page
+9. Updated the whole "About Us" page to include the "about the academies" section, "About the IT pathway" section, two student testimonials, and 3 students projects
+10. Changed color of the first part of "About Us" page
 11. Added club names and descriptions to the "Student Resources" page
-12. Took out the About the Academies section in the "About Me" page 
+12. Took out the About the Academies section in the "About Us" page
+13. Added student pictures to the testimonials section on the "About Us" page
 
 ##Contributing: Esha
 1. Edited the secondary memos on the montage to "It's where you should be"
