@@ -41,6 +41,7 @@ Your Names - Esha Fateh, Shriya Vijay, Minh Tran
 10. Added in images for each teacher
 11. Linked all overview subsections boxes to respective local links (About Us, Academics, Student Resources)
 12. Transferred teacher information to Academics page
+13. Replaced club images
 
 ##Contributing: Minh
 1. Formated Navbar with no background
